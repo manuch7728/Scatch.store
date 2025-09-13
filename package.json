@@ -1,0 +1,23 @@
+{
+  "name": "scatch.store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuch7728/Scatch.store.git"
+  },
+  "author": "Manu Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuch7728/Scatch.store/issues"
+  },
+  "homepage": "https://github.com/manuch7728/Scatch.store#readme",
+  "dependencies": {
+    "exppress": "^0.0.1-security",
+    "nodemon": "^3.1.10"
+  }
+}
