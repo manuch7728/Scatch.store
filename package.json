@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/manuch7728/Scatch.store#readme",
   "dependencies": {
-    "exppress": "^0.0.1-security",
+    "cookie-parser": "^1.4.7",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
     "nodemon": "^3.1.10"
   }
 }
